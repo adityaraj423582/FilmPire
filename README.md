@@ -24,8 +24,4 @@ Read more [here](https://ivuschua.com/projects/filmpire).
 - Alan AI
 - TMDB API
 
-<div align='center'>
-
-### Click [here](https://filmpire.ivuschua.com/) to visit the live demo website.
-</div>
 
