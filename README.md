@@ -16,7 +16,7 @@
 - View movie information
 
 
-Read more [here](https://ivuschua.com/projects/filmpire).
+
 
 # Tech Stack 💻
 
